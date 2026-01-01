@@ -1,2 +1,2 @@
-# Hello Git
+# Life is like a .....
 # This change is from branch 1 only
